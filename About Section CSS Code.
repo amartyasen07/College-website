@@ -1,0 +1,79 @@
+/****************ABOUT US SECTION****************/
+.heading {
+	font-size: 28px;
+	font-weight: 500;
+	margin-bottom: 30px;
+	color: #0055a4;
+}
+
+.subhead {
+	font-size: 18px;
+	color: red;
+	font-weight: 500;
+}
+
+.about-us div {
+	width: 45%;
+	float: left;
+	line-height: 30px;
+	font-size: 18px;
+}
+
+.about-us h4 {
+	font-size: 18px;
+	color: red;
+	font-weight: 500;
+}
+
+.about-us p {
+	font-size: 16px;
+	margin-bottom: 20px;
+	padding-right: 30px;
+	line-height: 23px;
+}
+
+.about-us img {
+	width: 40%;
+	float: left;
+}
+
+/****************AWARD SECTION****************/
+.award p {
+	width: 100%;
+	float: left;
+	font-size: 16px;
+}
+
+.award img {
+	width: 100%;
+}
+
+.award b {
+	min-width: 115px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.award h3 {
+	font-size: 23px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+/****************CHAIRMAN SECTION****************/
+.chairman img {
+	width: 150px;
+	float: left;
+	margin-right: 10px;
+}
+
+.chairman h2 {
+	font-size: 22px;
+	margin-top: 30px;
+}
+
+.chairman h4 {
+	font-size: 16px;
+	color: red;
+	font-weight: 400;
+}
