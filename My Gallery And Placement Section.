@@ -1,0 +1,25 @@
+<!------GALLERY SECTION ------>
+<div class="main-section gallery" style="background:#f0f3fa">
+  <div class="container ">
+    <h4 class="subhead">My Gallery</h4>
+    <h2 class="heading">Our College Gallery</h2>
+    <img src="images/gallery-1.jpg">
+    <img src="images/gallery-2.jpg">
+    <img src="images/gallery-3.jpg">
+    <img src="images/gallery-4.jpg">
+    <img src="images/gallery-5.jpg">
+    <img src="images/gallery-6.jpg">
+    <img src="images/gallery-7.jpg">
+    <img src="images/gallery-8.jpg">
+  </div>
+</div>
+<!-------PLACEMENT SECTION ------->
+<div class="main-section">
+  <div class="container">
+    <h4 class="subhead">Top Placement</h4>
+    <h2 class="heading">Our Partner Company</h2>
+    <marquee class="placement" direction="left" scrollamount="10">
+      <img src="images/placement.jpg">
+    </marquee>
+  </div>
+</div>
