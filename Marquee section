@@ -1,0 +1,18 @@
+/****************HEADER SECTION****************/
+.header {
+	background: #0055a4;
+	padding: 6px;
+}
+
+.header b {
+	background: #fff;
+	color: red;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.header marquee {
+	font-size: 20px;
+	color: #ffffff;
+	width: 80%;
+}
