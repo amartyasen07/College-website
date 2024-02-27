@@ -1,0 +1,56 @@
+<!-----ABOUT US SECTION------>
+<div class="main-section">
+  <div class="container about-us">
+    <div>
+      <h4 class="subhead">Our Institue</h4>
+      <h2 class="heading">About My College</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.If you are going to use a passage.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.If you are going to use a passage of anything embarrassing hidden in the middle of text Lorem ipsum. </p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus.If you are going to use a passage of a Lorem ipsum</p>
+      <a href="#">Read More</a>
+    </div>
+    <img src="images/about-us.jpg">
+  </div>
+</div>
+<div class="main-section award" style="background:#f0f3fa">
+  <div class="container">
+    <!-----College INFO SECTION----->
+    <div class="event">
+      <h2 class="heading">Our Chairman</h2>
+      <div class="chairman">
+        <ul>
+          <li>
+            <span class="campus-img">
+              <img src="images/owner-1.png">
+            </span>
+            <h2>Dr. Jay sharma</h2>
+            <h4>Chairman, My College</h4>
+            <h5>2010-2023</h5>
+          </li>
+          <li>
+            <span class="campus-img">
+              <img src="images/owner-2.png">
+            </span>
+            <h2>Dr. Jay sharma</h2>
+            <h4>Principal, My College</h4>
+            <h5>2020-2023</h5>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-----College AWARD SECTION----->
+    <div class="event">
+      <h2 class="heading">Our College Awards</h2>
+      <div>
+        <img src="images/award.jpg">
+      </div>
+    </div>
+    <!-----College CERTIFICATE SECTION----->
+    <div class="event">
+      <h2 class="heading">My College Certificate</h2>
+      <div>
+        <img src="images/certificate.png">
+      </div>
+    </div>
+  </div>
+</div>
