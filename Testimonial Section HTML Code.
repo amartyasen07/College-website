@@ -1,0 +1,61 @@
+<!-----TESTIMONIAL SECTION------>
+<div class="main-section ">
+  <div class="container">
+    <h4 class="subhead">Testimonial</h4>
+    <h2 class="heading">What Parents Say About Our College</h2>
+    <div class="testimonial">
+      <div class="testimonial-text">
+        <p>
+          <img src="images/quote.png">
+        </p> Contrary to popular belief, Lorem Ipsum is not simply. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard, a Latin professor at Hampden-Sydney College.
+      </div>
+      <div class="testimonial-detail">
+        <div class="testimonial-img">
+          <img src="images/testimonial-1.png">
+        </div>
+        <div class="testimonial-name">
+          <h5>Kiya</h5>
+          <p>
+            <img src="images/rating.png">
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="testimonial">
+      <div class="testimonial-text">
+        <p>
+          <img src="images/quote.png">
+        </p> Contrary to popular belief, Lorem Ipsum is not simply. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard, a Latin professor at Hampden-Sydney College.
+      </div>
+      <div class="testimonial-detail">
+        <div class="testimonial-img">
+          <img src="images/testimonial-2.png">
+        </div>
+        <div class="testimonial-name">
+          <h5>Divya</h5>
+          <p>
+            <img src="images/rating.png">
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="testimonial">
+      <div class="testimonial-text">
+        <p>
+          <img src="images/quote.png">
+        </p> Contrary to popular belief, Lorem Ipsum is not simply. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard, a Latin professor at Hampden-Sydney College.
+      </div>
+      <div class="testimonial-detail">
+        <div class="testimonial-img">
+          <img src="images/testimonial-3.png">
+        </div>
+        <div class="testimonial-name">
+          <h5>Richa</h5>
+          <p>
+            <img src="images/rating.png">
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
